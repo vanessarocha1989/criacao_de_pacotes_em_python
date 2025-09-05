@@ -30,6 +30,9 @@
 
 O projeto consiste em colocar em prática os aprendizados obtidos através do curso "Descomplicando a criação de pacotes de processamento de imagens em Python" ministrado por Karina Kato através da plataforma Digital Innovation One - DIO.
 
+## :memo: Licença ##
+
+Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 
 Feito por <a href="[https://github.com/vanessarocha1989]" target="_blank">Vanessa Rocha</a>
