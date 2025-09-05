@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/package.jpg" alt="Criacao De Pacotes Em Python" />
+  <img src="package.jpg" alt="Criacao De Pacotes Em Python" />
 
   &#xa0;
 </div>
