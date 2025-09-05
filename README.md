@@ -32,7 +32,7 @@ O projeto consiste em colocar em prática os aprendizados obtidos através do cu
 
 ## :memo: Licença ##
 
-Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 
 Feito por <a href="[https://github.com/vanessarocha1989]" target="_blank">Vanessa Rocha</a>
