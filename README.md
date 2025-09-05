@@ -32,7 +32,7 @@ O projeto consiste em colocar em prática os aprendizados obtidos através do cu
 
 
 
-Feito com :heart: por <a href="[https://github.com/vanessarocha1989]" target="_blank">Vanessa Rocha</a>
+Feito por <a href="[https://github.com/vanessarocha1989]" target="_blank">Vanessa Rocha</a>
 
 &#xa0;
 
