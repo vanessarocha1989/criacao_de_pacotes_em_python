@@ -1,5 +1,4 @@
 <div align="center" id="top"> 
-alt="Criacao De Pacotes Em Python" />
 
   &#xa0;
 </div>
